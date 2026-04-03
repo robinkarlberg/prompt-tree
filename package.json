@@ -1,6 +1,6 @@
 {
   "name": "prompt-tree",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get better performance and less cluttered prompts by creating structured prompts for LLMs.",
   "main": "index.js",
   "type": "module",
