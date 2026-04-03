@@ -1,0 +1,12 @@
+{
+  "name": "prompt-tree",
+  "version": "1.0.1",
+  "description": "Get better performance and less cluttered prompts by creating structured prompts for LLMs.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "author": "Robin Karlberg",
+  "license": "MIT"
+}
