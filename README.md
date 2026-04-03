@@ -86,12 +86,18 @@ const sys = prompt(
 **`sys.markdown()`**
 
 ```
+You are a helpful assistant.
+
 ## Rules
+
 Always be concise.
+
 ### Tickets
+
 Use the ticket system.
 
 ## Behaviour
+
 Offer to escalate tickets.
 Keep answers short.
 ```
@@ -99,6 +105,7 @@ Keep answers short.
 **`sys.xml()`**
 
 ```xml
+You are a helpful assistant.
 <rules>
   Always be concise.
   <tickets>
